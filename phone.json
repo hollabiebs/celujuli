@@ -1,0 +1,568 @@
+{
+  "version": 1,
+  "id": "17d38d64-d4ae-43bd-ba00-842f3b64c36c",
+  "title": "julian",
+  "owner": "Juli",
+  "ownerAvatar": "assets/1.jpg",
+  "theme": "light",
+  "homeIconColor": "#ffffff",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "20:41",
+  "date": "2026-11-16",
+  "clockMode": "current",
+  "lockTextTone": "auto",
+  "lockWallpaperTransform": {
+    "x": 37.007280695137794,
+    "y": 50,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 36.465909969179364,
+    "y": 50,
+    "scale": 1
+  },
+  "lockWallpaperEffects": {
+    "blur": 7,
+    "opacity": 1
+  },
+  "homeWallpaperEffects": {
+    "blur": 0,
+    "opacity": 1
+  },
+  "lockCode": "",
+  "lockWallpaper": "assets/2.jpg",
+  "homeWallpaper": "assets/3.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": false,
+    "calendar": true,
+    "diary": false,
+    "scrapbook": false,
+    "sns": true,
+    "calls": true,
+    "instory": true,
+    "browser": true
+  },
+  "appLayout": {
+    "home": [
+      "music",
+      "calendar",
+      "instory",
+      "browser",
+      "sns",
+      "calls",
+      "diary",
+      "scrapbook"
+    ],
+    "dock": [
+      "messages",
+      "contacts",
+      "photos",
+      "notes"
+    ]
+  },
+  "homeSlots": {
+    "music": 0,
+    "calendar": 1,
+    "diary": 6,
+    "scrapbook": 7,
+    "sns": 4,
+    "calls": 5,
+    "instory": 2,
+    "browser": 3
+  },
+  "contacts": [
+    {
+      "id": "b5af54e3-f532-4041-aa46-f058fd131399",
+      "name": "mami de enzo (licha y equi)",
+      "subtitle": "",
+      "phone": "+541132698523",
+      "favorite": false,
+      "avatar": "assets/4.jpg"
+    },
+    {
+      "id": "61ae42cf-c8fe-4fad-a940-2f0c8a5ae3c2",
+      "name": "pau",
+      "subtitle": "",
+      "phone": "+541169325807",
+      "favorite": false,
+      "avatar": "assets/5.jpg"
+    },
+    {
+      "id": "6bc2011e-8312-4039-9c9d-ae7191aef5e0",
+      "name": "licha❤️",
+      "subtitle": "",
+      "phone": "+541136982043",
+      "favorite": false,
+      "avatar": "assets/6.jpg"
+    },
+    {
+      "id": "8c78dcde-c210-4e27-956e-4ed02ff04484",
+      "name": "cuti",
+      "subtitle": "",
+      "phone": "+541169807524",
+      "favorite": false,
+      "avatar": "assets/7.jpg"
+    },
+    {
+      "id": "7740e2e5-3701-4c8b-ae0e-6cbebc6c1b92",
+      "name": "exe pala",
+      "subtitle": "",
+      "phone": "+541122326703",
+      "favorite": false,
+      "avatar": "assets/8.jpg"
+    },
+    {
+      "id": "2c3feacf-9465-49f4-a585-331f39304cb0",
+      "name": "lean",
+      "subtitle": "",
+      "phone": "+541166886323",
+      "favorite": false,
+      "avatar": "assets/9.jpg"
+    },
+    {
+      "id": "146eb046-f04e-410c-8c68-f09158feb59b",
+      "name": "fran hermano",
+      "subtitle": "",
+      "phone": "+541123689742",
+      "favorite": false,
+      "avatar": "assets/10.jpg"
+    },
+    {
+      "id": "b5fbbbcf-b608-4e4f-99c1-1800ffad9521",
+      "name": "rodri",
+      "subtitle": "",
+      "phone": "+541132679745",
+      "favorite": false,
+      "avatar": "assets/11.jpg"
+    },
+    {
+      "id": "72a0e69b-0686-4567-9f98-77cbfa22fcf6",
+      "name": "equi",
+      "subtitle": "",
+      "phone": "+541132649783",
+      "favorite": false,
+      "avatar": "assets/12.jpg"
+    },
+    {
+      "id": "69b15718-ae6e-417f-9861-e632ee3e3198",
+      "name": "enzo amor❤️",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": "assets/13.jpg"
+    }
+  ],
+  "threads": [
+    {
+      "id": "06f10bae-e7d3-415d-86bc-b5a7773a8387",
+      "contactId": "69b15718-ae6e-417f-9861-e632ee3e3198",
+      "messages": [
+        {
+          "id": "d5f73e3c-e6dd-4f12-bdbd-50f0c76e22e6",
+          "kind": "date",
+          "text": "Monday, November 16",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 11,
+            "day": 16,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "f01ebda2-8856-4206-84f5-7ce267a32a58",
+          "from": "me",
+          "text": "gooordo donde andas???",
+          "time": "21:25"
+        },
+        {
+          "id": "65391099-8037-4f39-ba87-6f63f596ef01",
+          "from": "them",
+          "text": "cagando amor",
+          "time": "21:25",
+          "image": "assets/14.jpg"
+        },
+        {
+          "id": "d023c01a-be16-4c9f-9ec6-2bc1b2526003",
+          "from": "me",
+          "text": "dale nene",
+          "time": "21:25"
+        },
+        {
+          "id": "623ab268-2926-4514-b13f-3d9f34a524c2",
+          "from": "me",
+          "text": "te dije a las 9",
+          "time": "21:26"
+        },
+        {
+          "id": "22f0fdbc-ac99-4663-b0ab-726a83ae616f",
+          "from": "me",
+          "text": "estate preparado",
+          "time": "21:26"
+        },
+        {
+          "id": "ae404311-391d-4c94-b6e5-9c4bc083d9ce",
+          "from": "them",
+          "text": "me dolia la panza amooooor",
+          "time": "21:26"
+        },
+        {
+          "id": "d13d8b1e-e3c9-4b23-842a-8debf9c1ad27",
+          "from": "me",
+          "text": "dale pajero",
+          "time": "21:26"
+        },
+        {
+          "id": "7bc8a058-b5b3-491a-a63d-b6d7b81c03f6",
+          "from": "them",
+          "text": "me amas mucho mucho mucho?",
+          "time": "21:26"
+        },
+        {
+          "id": "cd90a1c0-d7d6-4ff7-8870-220f943e9f4c",
+          "from": "me",
+          "text": "si demasiado.",
+          "time": "21:26"
+        },
+        {
+          "id": "50c82303-09b2-4360-b5d6-ebd6384d8aec",
+          "from": "me",
+          "text": "pero si tardas baja.",
+          "time": "21:26"
+        },
+        {
+          "id": "15af8f5f-5060-4e4c-8a5a-6c998289eae1",
+          "from": "them",
+          "text": "YA SALGO",
+          "time": "21:26"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "1537b3ec-45af-4bdc-9fcc-1a6f3214c35a",
+      "contactId": "b5af54e3-f532-4041-aa46-f058fd131399",
+      "messages": [
+        {
+          "id": "3247b5b0-2940-4817-b89c-53bb7232eb4d",
+          "kind": "date",
+          "text": "Monday, November 16",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 11,
+            "day": 16,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "051d6133-f8ae-4a26-aff1-81e621e7ee82",
+          "from": "them",
+          "text": "Juli amor ya estamos nosotros...",
+          "time": "21:52"
+        },
+        {
+          "id": "cac61aa6-46e3-427d-bed3-c2f9510f70f3",
+          "from": "me",
+          "text": "vamos a salir tarde",
+          "time": "21:52"
+        },
+        {
+          "id": "9905be9d-f608-4a03-b7ea-04f9998684b3",
+          "from": "me",
+          "text": "enzo esta en el baño🙄",
+          "time": "21:52"
+        },
+        {
+          "id": "13aaa149-fe69-445c-b15d-b7c8d4dfe01d",
+          "from": "them",
+          "text": "Siempre se caga ese pendejo. Dios Mio😒😒😒😒",
+          "time": "21:53"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "043e704a-590b-40fa-92c0-1752052be237",
+      "src": "assets/15.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "cce3d01b-1ddc-4c37-9e2f-fce9cc5d70ee",
+      "src": "assets/16.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "ff18edae-9ae5-4f2d-9ed7-7e793457d30b",
+      "src": "assets/17.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "adf1ec95-ac3b-418d-ab8f-016b717973db",
+      "src": "assets/18.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "a4bfcbd9-8d00-4e4b-a001-768850727173",
+      "src": "assets/19.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "f08346ad-98c7-498e-aad6-5ed55d3e04eb",
+      "src": "assets/20.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "c8e0acdd-a66f-4f89-b479-cc87f1e6c675",
+      "src": "assets/21.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "77c72fb0-c814-4c33-8820-78eb63a24d47",
+      "src": "assets/22.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "4ecd650b-aad6-40c7-b00d-9349aa5b3b70",
+      "src": "assets/23.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "62d52ae4-2298-4d0c-87f4-10ba4151e35f",
+      "src": "assets/24.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "361fbff7-fe85-42dc-922c-ae62182a7ea8",
+      "src": "assets/25.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "ac179bf5-ad1a-4de1-94a6-9eb0cec3ebb3",
+      "src": "assets/26.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "610864fa-d10b-42f6-88f7-bb16392daf73",
+      "src": "assets/27.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "8590444a-cf5e-4b12-a5f9-8ed69dfc4b75",
+      "src": "assets/28.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "2e8b8c3c-c973-46a9-a00c-fe0775c89867",
+      "src": "assets/29.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "15b1f4a9-261f-4afc-a319-22ebdf2b519d",
+      "src": "assets/30.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "e9b5b9de-197b-4859-b47c-42d4ff9bfdad",
+      "src": "assets/31.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "01132e15-377e-4799-8ec1-c6148c0797b0",
+      "src": "assets/32.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "2a66be3d-e07a-4e5c-9e7c-e39dddce675d",
+      "src": "assets/33.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "536c8503-aa39-4242-9341-60f832e35e23",
+      "src": "assets/34.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "fea7a309-8653-428c-a35b-55e4265ce921",
+      "src": "assets/35.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "922e16d8-685b-4079-910f-d4ed6920799d",
+      "src": "assets/36.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    },
+    {
+      "id": "b070d04a-c14d-4747-9af2-9b97a8c08092",
+      "src": "assets/37.jpg",
+      "caption": "",
+      "date": "2026-11-16",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "c38d0fe1-9f30-426c-af38-3f2e02b1dae0",
+      "title": "cosas para la pedida d mano",
+      "body": "1. gomitas acidas\n2. aceituanas (enzo ama🤢)\n3. anillo\n4. DECORACION (EXE)\n5. CARTAS.\n6. COSAS DULCES (ESPECIALMENTE BROWNIE)",
+      "pinned": false,
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "44758b9a-fa0e-49de-b979-eff5c8a259cc",
+      "title": "enzo mi amor",
+      "body": "enzo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo",
+      "pinned": false,
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "4654347e-1e8d-4470-9461-a78ce8e1869c",
+      "title": "cosas para poder recibirme",
+      "body": "aprobar morfologia.",
+      "pinned": false,
+      "updated": "2026-11-16"
+    }
+  ],
+  "calendar": {
+    "events": [
+      {
+        "id": "6c053e65-5978-4728-8873-be83ff00e320",
+        "title": "compromiso😁😅",
+        "date": "2026-11-16",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "sns": {
+    "profile": {
+      "handle": "juliialvarez",
+      "bio": "enzo fernandez sos mi vida",
+      "avatar": "assets/38.jpg"
+    },
+    "posts": [
+      {
+        "id": "a4b6eab4-d288-45a9-8d22-a0ae813eb5bf",
+        "authorId": "me",
+        "text": "Cada dia vamos escribiendo un capitulo nuevo en esta historia tan hermosa!❤️ Te amo Enzo Fernandez (O deberia decir Alvarez?)",
+        "images": [
+          "assets/39.jpg",
+          "assets/40.jpg"
+        ]
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "2cc45d93-d6d8-442f-b5e1-622438cd64f5",
+      "type": "incoming",
+      "contactId": "b5af54e3-f532-4041-aa46-f058fd131399",
+      "date": "2027-11-16",
+      "time": "21:24"
+    }
+  ],
+  "instory": {
+    "profile": {
+      "name": "Juli",
+      "handle": "julialvarez",
+      "bio": "love, love, love",
+      "followers": "1234",
+      "following": "78",
+      "avatar": "assets/41.jpg"
+    },
+    "posts": [
+      {
+        "id": "3a6a3942-75f1-46cd-8420-8e9cea677766",
+        "kind": "post",
+        "authorId": "me",
+        "images": [
+          "assets/42.jpg",
+          "assets/43.jpg"
+        ],
+        "caption": "comprometidos!",
+        "likes": "1363",
+        "date": "2027-11-16",
+        "liked": true
+      }
+    ]
+  },
+  "browser": {
+    "searches": [
+      {
+        "id": "a8231868-e965-4702-8776-75e5ae0c3cfe",
+        "query": "anillos de compromiso buenos aires"
+      },
+      {
+        "id": "d4bed35b-3c28-4ad5-bdae-ef4cb4b00420",
+        "query": "youtube music"
+      },
+      {
+        "id": "3ac886db-dc46-4c77-9f42-a0fffecaa8e3",
+        "query": "anuel aa"
+      },
+      {
+        "id": "f8228e21-77a1-4900-81ae-26e76d096dda",
+        "query": "lorde es la mejor artista del siglo?"
+      }
+    ]
+  },
+  "updatedAt": "2026-11-17T02:03:48.915Z"
+}
